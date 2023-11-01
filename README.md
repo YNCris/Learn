@@ -7,5 +7,6 @@
 [【雅思机考】亲身体验和考试细节图解总结](https://zhuanlan.zhihu.com/p/56195166)  
 [新东方雅思机考模拟](https://ieltscat.xdf.cn/)
 ### 国外短期项目Visiting Internship Students
-[阿尔伯塔大学](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/index.html)  
+[阿尔伯塔大学访问](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/index.html)  
 [普林斯顿大学访问PHD](https://psych.princeton.edu/diversity/visiting-internship-phd-students-vips-program)  
+[UBC访问](https://global.ubc.ca/go-global/coming-ubc/visiting-international-research-students-virs)  
