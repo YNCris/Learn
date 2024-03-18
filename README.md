@@ -19,3 +19,4 @@
 [gymnasium下创建自己的环境](https://blog.csdn.net/qq_36592770/article/details/133325814)  
 [mujoco基本操作](https://zhuanlan.zhihu.com/p/143983506)  
 [【XML模型】Mujoco代码解读-1(humanoid.xml)](https://zhuanlan.zhihu.com/p/684923845)  
+[【强化学习】Win10安装mujoco和mujoco_py(开源后版本)](https://zhuanlan.zhihu.com/p/462948069)  
