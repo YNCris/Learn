@@ -12,6 +12,8 @@
 [UBC访问](https://global.ubc.ca/go-global/coming-ubc/visiting-international-research-students-virs)  
 [马普所实习](https://www.mpg.de/20995122/undergraduate-internship-programme)  
 [EMBL实习](https://www.embl.org/jobs/position/HD02473)  
+### 找工作
+[nature找工作网站(信息很全看起来很好用)](https://www.nature.com/naturecareers/)  
 ### 强化学习  
 [行为流派02_从gymnasium开始自己的环境](https://zhuanlan.zhihu.com/p/652391991)  
 [虚幻引擎教程](https://www.unrealengine.com/zh-CN/learn)  
